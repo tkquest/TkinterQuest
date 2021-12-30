@@ -1,0 +1,11 @@
+Quick notes to self on how to do work on this project.
+
+1) do work (make/change files, etc.)
+
+2) when done working, run the following commands
+in the command line:
+
+git add -A (adds all files that changed)
+git commit -a -m "<message>" (adds files to the "commit" list, with a
+descriptive message of changes)
+git push (uploads this change to the main Git on Github)

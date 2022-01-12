@@ -1,0 +1,12 @@
+This project has two "tracks":
+
+	-Completion of demo examples of Tkinter features
+	-Completion of the actual game which uses Tkinter features
+
+This project has two goals:
+	-Produce a fun game using Python Tkinter
+	-Create plug-n-play "boilerplate" code for future projects
+
+This git was initially set up, and a workflow moving forward was 
+established. It should be trivial to spend 1-2 hours a day putting
+time into this project. 
